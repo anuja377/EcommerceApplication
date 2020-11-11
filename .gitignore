@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+DS_Store
+.DS_Store?
+02-backend/spring-boot-ecommerce/src/main/.DS_Store
+02-backend/spring-boot-ecommerce/src/main/java/.DS_Store
+02-backend/spring-boot-ecommerce/src/main/java/com/.DS_Store
+02-backend/spring-boot-ecommerce/src/main/java/com/luv2code/.DS_Store
+02-backend/spring-boot-ecommerce/src/main/java/com/luv2code/ecommerce/.DS_Store
